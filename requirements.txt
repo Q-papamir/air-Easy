@@ -1,0 +1,8 @@
+# Python package requirements for air-Easy.py
+#
+# This script only uses Python's standard library (subprocess, getpass,
+# shutil, sys, os, signal, time) — there are NO third-party pip packages
+# required. This file is kept so the dependency picture is explicit for
+# anyone else running the script.
+
+# (no third-party packages needed)
